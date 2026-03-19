@@ -1,0 +1,1 @@
+Sample for Catalyst App add menu bar
